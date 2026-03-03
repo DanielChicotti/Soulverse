@@ -29,7 +29,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-001_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-001_Sucesso.gif)
 
 ---
 
@@ -52,7 +52,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-002_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-002_Sucesso.gif)
 
 ---
 
@@ -75,7 +75,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-003_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-003_Sucesso.gif)
 
 ---
 
@@ -98,7 +98,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-004_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-004_Sucesso.gif)
 
 ---
 
@@ -124,7 +124,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-005_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-005_Sucesso.gif)
 
 ---
 
@@ -147,7 +147,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-006_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-006_Sucesso.gif)
 
 ---
 
@@ -170,7 +170,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Cadastro/CT-CAD-007_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Cadastro/CT-CAD-007_Sucesso.gif)
 
 
 ## 📌 Módulo: Login
@@ -199,7 +199,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-001_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-001_Sucesso.gif)
 
 ---
 
@@ -222,7 +222,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-002_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-002_Sucesso.gif)
 
 ---
 
@@ -247,7 +247,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-003_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../..//Evidencias/Login/CT-LOG-003_Sucesso.gif)
 
 ---
 
@@ -272,7 +272,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-004_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-004_Sucesso.gif)
 
 ---
 
@@ -296,7 +296,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-005_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-005_Sucesso.gif)
 
 ---
 
@@ -320,7 +320,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-006_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-006_Sucesso.gif)
 
 ---
 
@@ -345,7 +345,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-007_Fail.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-007_Fail.gif)
 
 - Defeito relacionado: BUG-002
 
@@ -374,7 +374,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-008_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-008_Sucesso.gif)
 
 ---
 
@@ -396,7 +396,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Login/CT-LOG-009_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Login/CT-LOG-009_Sucesso.gif)
 
 ---
 
@@ -422,7 +422,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Selecao-Personagem/CT-SEL-001_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Selecao-Personagem/CT-SEL-001_Sucesso.gif)
 
 ---
 
@@ -445,7 +445,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Selecao-Personagem/CT-SEL-002_Sucesso.gif)  
+**Evidência:** [Visualizar GIF](../../Evidencias/Selecao-Personagem/CT-SEL-002_Sucesso.gif)  
 
 ---
 
@@ -468,7 +468,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Selecao-Personagem/CT-SEL-003_Sucesso.gif) 
+**Evidência:** [Visualizar GIF](../../Evidencias/Selecao-Personagem/CT-SEL-003_Sucesso.gif) 
 
 ---
 
@@ -492,7 +492,34 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Selecao-Personagem/CT-SEL-001_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Selecao-Personagem/CT-SEL-001_Sucesso.gif)
+
+---
+
+## CT-SEL-005 — Conectar ao jogo após selecionar personagem
+
+**Pré-condição:**  
+Usuário logado com sucesso e possuir pelo menos 1 personagem criado. Servidor com status **Online**.
+
+**Passos:**
+
+1. Realizar login com credenciais válidas  
+2. Na tela de seleção, escolher um personagem existente  
+3. Clicar em **Entrar**  
+4. Aguardar carregamento do mapa inicial  
+
+**Resultado esperado:**  
+Sistema deve carregar o personagem corretamente no mapa inicial, exibir HUD (vida, mana, level, etc.) e permitir movimentação sem apresentar erro de conexão ou travamento.
+
+Execução do Teste
+
+- Status: ✔ Pass  
+- Data da execução: 03/03/2026
+- Versão testada: Beta  
+- Ambiente: Cliente Desktop  
+- Executor: Daniel Chicotti  
+
+**Evidência:** [Visualizar GIF](../../Evidencias/Selecao-Personagem/CT-SEL-005_Sucesso.gif)
 
 ---
 
@@ -528,7 +555,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-001_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-001_Sucesso.gif)
 
 ---
 
@@ -555,7 +582,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-002_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-002_Sucesso.gif)
 
 ---
 
@@ -587,7 +614,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-003_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-003_Sucesso.gif)
 
 ---
 
@@ -616,7 +643,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-004_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-004_Sucesso.gif)
 
 ---
 
@@ -649,7 +676,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-005_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-005_Sucesso.gif)
 
 ---
 
@@ -682,7 +709,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-006_Fail.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-006_Fail.gif)
 
 ---
 
@@ -715,7 +742,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-007_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-007_Sucesso.gif)
 
 ---
 
@@ -744,5 +771,7 @@ Execução do Teste
 
 - Executor: Daniel Chicotti
 
-**Evidência:** [Visualizar GIF](../Evidencias/Criacao-Personagem/CT-CHAR-008_Sucesso.gif)
+**Evidência:** [Visualizar GIF](../../Evidencias/Criacao-Personagem/CT-CHAR-008_Sucesso.gif)
+
+
 
