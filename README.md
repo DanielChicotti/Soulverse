@@ -1,187 +1,117 @@
-# Soulverse — Testes Manuais (QA)
+# SoulVerse – QA Testing Portfolio
 
-## Sobre o Projeto
+✔ Testes Manuais  
+✔ Testes de API  
+✔ Automação de Testes com Cypress
 
-Este repositório contém a documentação de **Testes Manuais** do jogo **Soulverse**.
+Este repositório contém exemplos de **testes manuais, testes de API e automação de testes** realizados como parte do meu portfólio de **Quality Assurance (QA)**.
 
-**Soulverse** é um MMORPG 2D em estilo pixel art, inspirado no universo de **BLEACH**, com diversas classes jogáveis e sistemas como:
-
-* Sistema de Login e Cadastro
-* Criação de Personagem
-* Classes (Shinigami, Hollow, Quincy e Ryoka)
-* Dungeons
-* Missões (Quests)
-* Cartas (inspiradas em Ragnarok)
-* Raid Boss
-* Guildas e Guerra de Guildas
-* Mercado global
-* Itens customizados
+O objetivo do projeto é demonstrar conhecimentos em **planejamento de testes, validação de funcionalidades e automação de testes utilizando ferramentas modernas**.
 
 ---
 
-## Meu Papel no Projeto
+# Objetivo
 
-Atuei na **idealização do projeto e criação do conteúdo jogável**, além de ser responsável por:
+Demonstrar habilidades em:
 
-* Planejamento de testes
-* Criação de cenários de teste
-* Execução de testes manuais
-* Registro de defeitos (bugs)
-* Coleta de evidências (prints e GIFs)
-* Organização da documentação em GitHub
-
----
-
-## Objetivo deste Repositório
-
-Demonstrar:
-
-* Organização de testes
-* Metodologia de QA
-* Boas práticas de documentação
-* Rastreabilidade entre cenários, execuções e defeitos
-* Experiência prática com testes funcionais em aplicação real
+* Criação de cenários de testes
+* Documentação de testes manuais
+* Testes de API
+* Automação de testes
+* Organização de projetos de QA
+* Uso de ferramentas comuns da área
 
 ---
 
-## Estrutura do Repositório
+# Estrutura do projeto
 
-```
-Soulverse-Testes-Manuais/
-│
-├── Plano-de-testes/
-├── Analise-de-requisitos/
-├── Cenario-de-teste/
-│
-├── Evidencias/
-│   ├── Login/
-│   ├── Cadastro/
-│   ├── Criacao-Personagem/
-│   └── Evidencias.md
-│
-├── Registro-de-Defeitos/
-└── README.md
-```
+## Testes Manuais
 
----
+Contém cenários de teste documentados para funcionalidades do jogo **SoulVerse (Bleach Online MMO)**.
 
-## Técnicas de Teste Aplicadas
+Exemplos de cenários testados:
 
-### Testes Funcionais
-
-Validação das funcionalidades principais do sistema, garantindo que atendem aos requisitos.
-
-Exemplos:
-
-* Login com credenciais válidas e inválidas
-* Cadastro de usuário
+* Login
 * Criação de personagem
+* Seleção de personagem
+* Interface do jogo (HUD)
+* Funcionalidades do jogo
+
+Os cenários estão documentados em **Markdown** para facilitar leitura e organização.
 
 ---
 
-### Testes Positivos
+## Testes de API
 
-Validação de fluxos com dados corretos.
+Testes realizados utilizando **Postman** com a API pública:
 
-Exemplo:
+https://reqres.in/
 
-* Cadastro realizado com sucesso
-* Login com usuário e senha válidos
+Validações realizadas:
 
----
+* Status code
+* Estrutura da resposta JSON
+* Criação de usuários
+* Atualização de usuários
+* Exclusão de usuários
+* Tratamento de erros
 
-### Testes Negativos
-
-Validação do comportamento do sistema diante de entradas inválidas.
-
-Exemplos:
-
-* Campos obrigatórios em branco
-* Senha ou usuário inválido
-* Servidor offline
-* Nome de personagem com tamanho excessivo
+Objetivo: demonstrar conhecimento em **validação de APIs REST**.
 
 ---
 
-### Testes de Validação de Entrada
+## Automação de Testes (Cypress)
 
-Verificação de regras de negócio e limites de campos.
+A pasta **soulverse-wiki-automation** contém testes automatizados utilizando **Cypress** para validar funcionalidades da wiki do jogo.
 
-Exemplos:
+Funcionalidades testadas:
 
-* Tamanho mínimo/máximo
-* Caracteres inválidos
-* Formatos incorretos
+* Campo de pesquisa
+* Busca de itens
+* Seleção de categorias
+* Exibição de informações do item
+* Materiais de fórmulas
+* Navegação entre itens
+* Validação de conteúdo exibido
 
----
+Estrutura:
 
-### Testes de Fluxo do Usuário
+```
+soulverse-wiki-automation/
+ ├ cypress/
+ │  └ e2e/
+ │     ├ wiki_items.cy.js
+ │     ├ wiki_search.cy.js
+ │     └ wiki_navigation.cy.js
+ ├ Evidencias/
+ │  └ CT-Wiki.gif
+ └ README.md
+```
 
-Validação da jornada completa do usuário:
-
-Cadastro → Login → Criação de personagem → Entrada no jogo
-
----
-
-### Testes Exploratórios
-
-Execução livre do sistema para identificar comportamentos inesperados e possíveis falhas não previstas.
-
----
-
-## Registro de Defeitos
-
-Os bugs encontrados são documentados contendo:
-
-* ID do defeito
-* Módulo afetado
-* Severidade e Prioridade
-* Passos para reprodução
-* Resultado esperado vs obtido
-* Evidência visual
+A pasta também contém **evidências da execução dos testes automatizados**.
 
 ---
 
-## Evidências
+# Ferramentas utilizadas
 
-Cada cenário executado contém:
-
-* Status (Pass / Fail)
-* Data de execução
-* Ambiente
-* Versão testada
-* GIF ou print demonstrando o resultado
-
----
-
-## Ambiente de Teste
-
-* Cliente Desktop (Beta)
-* Testes manuais
-* Execução local
-* Servidor de desenvolvimento
-
----
-
-## Ferramentas Utilizadas
-
-* GitHub (documentação e versionamento)
 * Markdown
-* ScreenToGif / Captura de tela
-* Cliente do jogo (Desktop)
+* Git / GitHub
+* Postman
+* Cypress
+* JavaScript
+* Node.js
 
 ---
 
-## Status do Projeto
+# Evidência da automação
 
-Em evolução — novos cenários e módulos serão adicionados conforme o avanço dos testes.
+A execução dos testes automatizados pode ser visualizada na documentação da pasta:
+
+`soulverse-wiki-automation/README.md`
 
 ---
 
-## Contato
+# Autor
 
 Daniel Chicotti
-
-https://www.linkedin.com/in/danielchicotti/
-
-QA | Testes Manuais | Game Testing
+QA Testing Portfolio
